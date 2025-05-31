@@ -80,7 +80,7 @@ This project was built during a hackathon with no prior experience in LangGraph.
 2. **Install dependencies manually**
 
    ```bash
-   pip install langchain langgraph pinecone-client cohere python-dotenv
+   pip install -r requirements.txt
    ```
 
 3. **Set environment variables**
@@ -111,6 +111,3 @@ This project was built during a hackathon with no prior experience in LangGraph.
 
 MIT License. Feel free to fork, contribute, and build upon!
 
----
-
-Would you like me to save this as a `README.md` file in your project directory?
