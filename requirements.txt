@@ -1,0 +1,6 @@
+langchain
+langgraph 
+pinecone-client 
+cohere 
+python-dotenv
+langchain_community
