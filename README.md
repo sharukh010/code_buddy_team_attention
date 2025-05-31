@@ -87,6 +87,7 @@ This project was built during a hackathon with no prior experience in LangGraph.
    Create a `.env` file:
 
    ```env
+   TAVILY_API_KEY=your_tavily_key
    COHERE_API_KEY=your_cohere_key
    PINECONE_API_KEY=your_pinecone_key
    PINECONE_ENV=your_pinecone_env
