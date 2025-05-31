@@ -73,8 +73,8 @@ This project was built during a hackathon with no prior experience in LangGraph.
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/code-buddy.git
-   cd code-buddy
+   git clone https://github.com/sharukh010/code_buddy_team_attention/
+   cd code_buddy_team_attention
    ```
 
 2. **Install dependencies manually**
